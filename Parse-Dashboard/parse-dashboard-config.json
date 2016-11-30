@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1337/parse",
+      "serverURL": "https://insta231.herokuapp.com/parse",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
       "appName": "Dev"
@@ -13,7 +13,7 @@
       "appName": "ParsePlayground"
     },
     {
-      "serverURL": "https://transportforchurch.herokuapp.com/",
+      "serverURL": "https://transportforchurch.herokuapp.com/parse",
       "appId": "a5dee5f93e5dce98effcfb4aa30bf5f1",
       "masterKey": "bb054a15cab720e6b3ef4ca890ec1335",
       "appName": "Transport4Church"
