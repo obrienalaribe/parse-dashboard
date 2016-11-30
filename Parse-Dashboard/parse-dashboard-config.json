@@ -4,13 +4,19 @@
       "serverURL": "http://localhost:1337/parse",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
-      "appName": "Transport4Church"
+      "appName": "Dev"
     },
     {
       "serverURL": "https://parseplayground.herokuapp.com/parse",
       "appId": "904b8a9edfa75ab1e006379f5b2d8335",
       "masterKey": "9c18012445b8318880a32df6e3dfbcab",
       "appName": "ParsePlayground"
+    },
+    {
+      "serverURL": "https://transportforchurch.herokuapp.com/",
+      "appId": "a5dee5f93e5dce98effcfb4aa30bf5f1",
+      "masterKey": "bb054a15cab720e6b3ef4ca890ec1335",
+      "appName": "Transport4Church"
     }
   ],
 
